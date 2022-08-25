@@ -1,0 +1,26 @@
+{
+  "name": "book-record-management-10567",
+  "version": "1.0.0",
+  "description": "Book Record management server build with node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuraj-m/Book-Record-Management-10567.git"
+  },
+  "author": "Vishnuraj M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnuraj-m/Book-Record-Management-10567/issues"
+  },
+  "homepage": "https://github.com/vishnuraj-m/Book-Record-Management-10567#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
