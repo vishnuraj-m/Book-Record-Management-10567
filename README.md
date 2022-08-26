@@ -6,12 +6,12 @@
 
 ## /users
 
-POST: create user
-GET: Get all list of users
+POST: create user ✅
+GET: Get all list of users ✅
 
 ## /users/{id}
 
-GET: Get user by id
+GET: Get user by id ✅
 PUT: Update a user by id
 DELETE: Delete a user by id (check if he/ she still has an issued book) (is there any fine to be paid)
 
@@ -40,7 +40,7 @@ GET: Get all issued books
 
 GET: all issued books with fine
 
-# Subscription Types
+## Subscription Types ====>
 
  Basic(3 months)
  Standard(6 months)
